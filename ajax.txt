@@ -1,6 +1,0 @@
-1. HTML에서 자바스크립트로 입력데이터를 JSON형식으로 변환
-2. request로 받는 데이터를 json형식으로 해석
-3. 서버에서 response로 json형식의 데이터를 응답.
-
-gson.jar  = json을 자바객체로 
-	   자바객체를 json으로
